@@ -5,7 +5,8 @@
   "author": "duduvien <vivien@vkdevmy.com>",
   "private": true,
   "dependencies": {
-    "nuxt": "latest"
+    "nuxt": "latest",
+    "tachyons": "^4.7.0"
   },
   "scripts": {
     "dev": "nuxt",
