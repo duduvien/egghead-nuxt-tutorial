@@ -5,6 +5,7 @@
   "author": "duduvien <vivien@vkdevmy.com>",
   "private": true,
   "dependencies": {
+    "axios": "^0.16.1",
     "nuxt": "latest",
     "tachyons": "^4.7.0"
   },
